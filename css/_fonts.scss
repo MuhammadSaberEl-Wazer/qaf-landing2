@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Somar-Regular";
+  // src: url("../../public/assests/fonts/somar/alfont_com_Somar-Regular.otf");
+  src: url("fonts/somar/alfont_com_Somar-Regular.otf");
+}
+
+@font-face {
+  font-family: "Somar-Light";
+  // src: url("../../public/assests/fonts/somar/alfont_com_Somar-Light.otf");
+  src: url("fonts/somar/alfont_com_Somar-Light.otf");
+}
+
+@font-face {
+  font-family: "Somar-Heavy";
+  // src: url("../../public/assests/fonts/somar/alfont_com_SomarGX.ttf");
+  src: url("fonts/somar/alfont_com_SomarGX.ttf");
+}
+
+@font-face {
+  font-family: "Somar-Extra-Light";
+  // src: url("../../public/assests/fonts/somar/alfont_com_Somar-ExtraLight.otf");
+  src: url("fonts/somar/alfont_com_Somar-ExtraLight.otf");
+}
+
+* {
+  font-family: "Somar-Regular"!important;
+}

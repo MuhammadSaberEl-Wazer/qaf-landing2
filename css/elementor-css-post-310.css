@@ -1,0 +1,30 @@
+.elementor-kit-310{--e-global-color-primary:#437238;--e-global-color-secondary:#D9D8D2;--e-global-color-text:#162613;--e-global-color-accent:#E1C794;--e-global-color-993a3af:#00000000;--e-global-color-0f9c4c8:#F7EEE6;--e-global-color-b57f285:#FFFFFF;--e-global-typography-primary-font-family:"Kufam";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Noto Kufi Arabic";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Noto Kufi Arabic";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Kufam";--e-global-typography-accent-font-weight:600;color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-kit-310 a{color:var( --e-global-color-primary );}.elementor-kit-310 a:hover{color:var( --e-global-color-accent );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-kit-310 h1{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 h2{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 h3{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 h4{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 h5{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 h6{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 button,.elementor-kit-310 input[type="button"],.elementor-kit-310 input[type="submit"],.elementor-kit-310 .elementor-button{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-0f9c4c8 );background-color:var( --e-global-color-primary );border-style:solid;border-width:0px 0px 0px 0px;border-radius:4px 4px 4px 4px;padding:18px 40px 18px 40px;}.elementor-kit-310 button:hover,.elementor-kit-310 button:focus,.elementor-kit-310 input[type="button"]:hover,.elementor-kit-310 input[type="button"]:focus,.elementor-kit-310 input[type="submit"]:hover,.elementor-kit-310 input[type="submit"]:focus,.elementor-kit-310 .elementor-button:hover,.elementor-kit-310 .elementor-button:focus{color:var( --e-global-color-primary );background-color:var( --e-global-color-accent );}.elementor-kit-310 img{border-radius:6px 6px 6px 6px;}.elementor-kit-310 label{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-310 input:not([type="button"]):not([type="submit"]),.elementor-kit-310 textarea,.elementor-kit-310 .elementor-field-textual{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:var( --e-global-color-text );background-color:var( --e-global-color-993a3af );border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-secondary );border-radius:14px 14px 14px 14px;padding:15px 20px 15px 20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-310 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */body[data-elementor-device-mode=mobile] #top-nav .elementor-nav-menu {
+    -webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    margin-left: auto !important;;
+    margin-right: auto !important;;
+}
+
+.buttons-list .elementor-icon-list-item {
+    background: #437238;
+    padding: 10px 18px !important;
+    border-radius: 14px;
+    margin-bottom: 14px !important;
+}
+
+.buttons-list .elementor-icon-list-item:hover {
+    background: #E1C794;
+}
+
+.buttons-list-inverse .elementor-icon-list-item {
+    background: #ad8f56;
+    padding: 10px 18px !important;
+    border-radius: 14px;
+    margin-bottom: 14px !important;
+}
+
+.buttons-list-inverse .elementor-icon-list-item:hover {
+    background: #437238;
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
